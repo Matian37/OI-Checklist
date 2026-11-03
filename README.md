@@ -7,7 +7,7 @@
 Repo contains four important parts:
 * `rozwiazania/` - my c++ solutions for problems from Polish Olympiad in Informatics
 * `checklista/` - checklist updater (from forked repo) 
-* `template/` - useful scripts used in my competitive programming competitions
+* `template/` - coding templates and useful scripts used in my competitive programming competitions
 * `README.md` - shows checklist with detailed statistics for each editions, stage etc.
 
 <!-- AUTO-CHECKLIST -->
@@ -46,15 +46,15 @@ X | 2/16 (12%) | XX | 4/17 (24%) | XXX | 6/17 (35%) |  |
 
 Edition | task 1 | task 2 | task 3 | task 4 | task 5 | task 6
 :--- | ---: | ---: | ---: | ---: | ---: | ---:
-I | pio 🤔 | tro ✅ | spo ✅ | — | — | —
-II | pal ✅ | jed ✅ | drz ✅ | jez ✅ | — | —
+I | spo ✅ | pio 🤔 | tro ✅ | — | — | —
+II | jed ✅ | jez ✅ | pal ✅ | drz ✅ | — | —
 III | gon 🤔 |   |   |   | — | —
 IV |   |   |   |   | — | —
 V |   |   |   |   | — | —
 VI |   |   |   |   | — | —
-VII | lan ✅ | bro ✅ | pas ✅ |   | — | —
-VIII | ant ✅ | map ✅ | prz ✅ |   | — | —
-IX | wys ✅ | kol ✅ | kom ✅ |   | — | —
+VII | pas ✅ | bro ✅ | lan ✅ |   | — | —
+VIII | ant ✅ | prz ✅ | map ✅ |   | — | —
+IX | wys ✅ | kom ✅ | kol ✅ |   | — | —
 X | prz ✅ | cze ✅ |   |   |   | —
 XI |   |   |   |   |   | —
 XII |   |   |   |   |   | —
@@ -69,15 +69,15 @@ XX |   |   |   |   |   | —
 XXI | kur ✅ |   |   |   |   | —
 XXII |   |   |   |   |   | —
 XXIII |   |   |   |   |   | —
-XXIV | sab ✅ | pod ✅ | rep 🤔 |   |   | —
-XXV | pio ✅ | pow 🤔 | pra 🤔 |   |   | —
+XXIV | rep 🤔 | pod ✅ | sab ✅ |   |   | —
+XXV | pow 🤔 | pio ✅ | pra 🤔 |   |   | —
 XXVI | klu 🤔 | nie 🤔 |   |   |   | —
 XXVII | pom 🤔 |   |   |   |   | —
 XXVIII | cuk ✅ |   |   |   |   | —
 XXIX |   |   |   |   |   | —
 XXX | ply ✅ |   |   |   |   | —
-XXXI | bud ✅ | prz ✅ | cza ✅ | zap ✅ | sat ✅ | —
-XXXII | spr ✅ | usu ✅ | kas ✅ | bit ✅ | zam ✅ | wal ✅
+XXXI | cza ✅ | sat ✅ | prz ✅ | bud ✅ | zap ✅ | —
+XXXII | zam ✅ | wal ✅ | usu ✅ | kas ✅ | bit ✅ | spr ✅
 
 
 ## Solved tasks from Stage II
@@ -95,22 +95,22 @@ VIII |   |   |   |   |
 IX | izo ✅ | dzi ✅ |   |   |  
 X |   |   |   |   |  
 XI |   |   |   |   |  
-XII |   | ban ✅ |   | sza ✅ | kos 🤔
-XIII |   | naj ✅ | met ✅ |   |  
+XII |   | ban ✅ |   | kos 🤔 | sza ✅
+XIII |   | met ✅ | naj ✅ |   |  
 XIV |   |   |   | tet ✅ |  
-XV | blo 🤔 | poc ✅ | bbb ✅ | uci ✅ | maf ✅
-XVI |   | kon ✅ | baj ✅ | lyz ✅ | arc ✅
-XVII |   | klo ✅ | cho ✅ | tel ✅ | owc 🤔
-XVIII |   | smi ✅ | roz ✅ | tem ✅ | rot ✅
-XIX |   | bon ✅ | sza ✅ | okr ✅ | roz ✅
+XV | blo 🤔 | poc ✅ | bbb ✅ | maf ✅ | uci ✅
+XVI |   | baj ✅ | kon ✅ | arc ✅ | lyz ✅
+XVII |   | klo ✅ | cho ✅ | owc 🤔 | tel ✅
+XVIII |   | smi ✅ | roz ✅ | rot ✅ | tem ✅
+XIX |   | sza ✅ | bon ✅ | okr ✅ | roz ✅
 XX | spa 🤔 | luk 🤔 |   | mor ✅ | kon ✅
 XXI | kar ✅ | prz ✅ |   | pta ✅ | raj ✅
-XXII |   | pus ✅ | pod ✅ | trz ✅ | kur ✅
-XXIII | swi ✅ | dro ✅ | zaj ✅ | wca ✅ | ark ✅
-XXIV | zaw ✅ | str ✅ | sum ✅ | kon ✅ | zam ✅
-XXV | prz ✅ | dro ✅ | kon ✅ | tel ✅ | tom ✅
+XXII |   | pod ✅ | pus ✅ | kur ✅ | trz ✅
+XXIII | swi ✅ | zaj ✅ | dro ✅ | ark ✅ | wca ✅
+XXIV | zaw ✅ | str ✅ | sum ✅ | zam ✅ | kon ✅
+XXV | prz ✅ | dro ✅ | kon ✅ | tom ✅ | tel ✅
 XXVI | roz 🤔 | gwi ✅ | kol ✅ | cyk ✅ | osi ✅
-XXVII | wak 🤔 | wie ✅ | czw ✅ | tru 🤔 | mar ✅
+XXVII | wak 🤔 | czw ✅ | wie ✅ | tru 🤔 | mar ✅
 XXVIII | pro ✅ | ple ✅ |   | pla ✅ |  
 XXIX | arm 🤔 | age ✅ | lic ✅ | kon 🤔 |  
 XXX | wir ✅ | gra ✅ | wag ✅ | drw ✅ | wsp ✅
@@ -132,24 +132,24 @@ VII |   | — |   |   | — | age ✅ |   |
 VIII |   | — |   |   | — | kop ✅ |   |  
 IX | min ✅ | — |   |   | — |   |   |  
 X |   | — |   |   | — |   |   |  
-XI |   | — |   |   |   | mis ✅ | mak ✅ | —
+XI |   | — |   |   |   | mak ✅ | mis ✅ | —
 XII |   | — |   |   |   | aut ✅ |   |  
 XIII |   | — |   |   | — | pal ✅ |   |  
 XIV |   | — | gaz ✅ |   | — |   |   |  
 XV |   | — | pod 🤔 |   |   | sta ✅ |   | —
 XVI |   | — |   |   |   |   |   | —
 XVII |   | — | gra ✅ |   |   | pil ✅ |   |  
-XVIII |   | — |   |   |   | met ✅ | pat ✅ |  
+XVIII |   | — |   |   |   | pat ✅ | met ✅ |  
 XIX |   | — | lic ✅ |   |   |   |   |  
 XX |   | — | lan ✅ |   |   | las ✅ |   |  
 XXI | far ✅ | — | tur 🤔 |   |   | zal ✅ |   |  
 XXII |   | — | wil ✅ |   |   | kol ✅ |   |  
-XXIII | row ✅ | — | pos 🤔 | zyw ✅ | pra ✅ |   |   |  
-XXIV |   | — | mid ✅ | oce ✅ |   | kuc 🤔 |   | —
-XXV | trz ✅ | dwa ✅ | kom 🤔 |   |   | tak ✅ |   |  
-XXVI | met ✅ | — | zja 🤔 | rem 🤔 |   | dlu ✅ |   |  
+XXIII | row ✅ | — | zyw ✅ | pra ✅ | pos 🤔 |   |   |  
+XXIV |   | — | oce ✅ | mid ✅ |   | kuc 🤔 |   | —
+XXV | dwa ✅ | trz ✅ | kom 🤔 |   |   | tak ✅ |   |  
+XXVI | met ✅ | — | rem 🤔 | zja 🤔 |   | dlu ✅ |   |  
 XXVII | — | — | — | — | — | — | — | —
 XXVIII | kol 🤔 | — |   |   |   |   |   |  
 XXIX | zer ✅ |   | glo ✅ | wyb ✅ | rze 🤔 | met 🤔 |   |  
 XXX |   | — |   |   |   |   |   |  
-XXXI | sta 🤔 | — | wys 🤔 | ska 🤔 | buk 🤔 | wyj 🤔 |   |
+XXXI | sta 🤔 | — | wys 🤔 | buk 🤔 | ska 🤔 | wyj 🤔 |   |
