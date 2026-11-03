@@ -12,23 +12,23 @@ Repo contains four important parts:
 
 <!-- AUTO-CHECKLIST -->
 
-> ⚠️ **UWAGA:** Sekcja poniżej jest generowana automatycznie.
-> Nie modyfikuj README poniżej tego napisu.
-> ✅ oznacza wykonane zadanie.
-> 🤔 oznacza zadanie z mniej niż 100 punktów.
+> ⚠️ **NOTE:** The section below is generated automatically.
+> Do not modify the README below this notice.
+> ✅ means a completed task.
+> 🤔 means a task with fewer than 100 points.
 
 
-# Podsumowanie
+# Summary
 
-## Rozwiązane zadania wg etapów
+## Solved tasks by stage
 
-Etap I | Etap II | Etap III | Łącznie
+Stage I | Stage II | Stage III | Total
 :---: | :---: | :---: | :---:
 43/150 (29%) | 82/157 (52%) | 38/200 (19%) | 163/507 (32%)
 
-## Rozwiązane zadania wg edycji
+## Solved tasks by edition
 
-Edycja | Wynik | Edycja | Wynik | Edycja | Wynik | Edycja | Wynik
+Edition | Score | Edition | Score | Edition | Score | Edition | Score
 :--- | ---: | :--- | ---: | :--- | ---: | :--- | ---:
 I | 4/10 (40%) | XI | 2/16 (12%) | XXI | 7/17 (41%) | XXXI | 9/17 (53%)
 II | 5/14 (36%) | XII | 3/17 (18%) | XXII | 6/17 (35%) | XXXII | 10/18 (56%)
@@ -42,47 +42,47 @@ IX | 6/15 (40%) | XIX | 6/17 (35%) | XXIX | 5/17 (29%) |  |
 X | 2/16 (12%) | XX | 4/17 (24%) | XXX | 6/17 (35%) |  |
 
 
-## Rozwiązane zadania z I etapu
+## Solved tasks from Stage I
 
-Edycja | zad. 1 | zad. 2 | zad. 3 | zad. 4 | zad. 5 | zad. 6
+Edition | task 1 | task 2 | task 3 | task 4 | task 5 | task 6
 :--- | ---: | ---: | ---: | ---: | ---: | ---:
-I | spo ✅ | tro ✅ | pio 🤔 | — | — | —
-II | pal ✅ | drz ✅ | jez ✅ | jed ✅ | — | —
+I | pio 🤔 | tro ✅ | spo ✅ | — | — | —
+II | pal ✅ | jed ✅ | drz ✅ | jez ✅ | — | —
 III | gon 🤔 |   |   |   | — | —
 IV |   |   |   |   | — | —
 V |   |   |   |   | — | —
 VI |   |   |   |   | — | —
 VII | lan ✅ | bro ✅ | pas ✅ |   | — | —
 VIII | ant ✅ | map ✅ | prz ✅ |   | — | —
-IX | kom ✅ | kol ✅ | wys ✅ |   | — | —
-X | cze ✅ | prz ✅ |   |   |   | —
+IX | wys ✅ | kol ✅ | kom ✅ |   | — | —
+X | prz ✅ | cze ✅ |   |   |   | —
 XI |   |   |   |   |   | —
 XII |   |   |   |   |   | —
 XIII | okr ✅ | kra ✅ |   |   |   | —
 XIV |   |   |   |   |   | —
 XV | pla ✅ |   |   |   |   | —
 XVI | kam ✅ |   |   |   |   | —
-XVII | kor ✅ | tes ✅ | gil ✅ |   |   | —
+XVII | kor ✅ | gil ✅ | tes ✅ |   |   | —
 XVIII | liz ✅ |   |   |   |   | —
 XIX | lit ✅ |   |   |   |   | —
 XX |   |   |   |   |   | —
 XXI | kur ✅ |   |   |   |   | —
 XXII |   |   |   |   |   | —
 XXIII |   |   |   |   |   | —
-XXIV | rep 🤔 | sab ✅ | pod ✅ |   |   | —
+XXIV | sab ✅ | pod ✅ | rep 🤔 |   |   | —
 XXV | pio ✅ | pow 🤔 | pra 🤔 |   |   | —
 XXVI | klu 🤔 | nie 🤔 |   |   |   | —
 XXVII | pom 🤔 |   |   |   |   | —
 XXVIII | cuk ✅ |   |   |   |   | —
 XXIX |   |   |   |   |   | —
 XXX | ply ✅ |   |   |   |   | —
-XXXI | cza ✅ | sat ✅ | prz ✅ | zap ✅ | bud ✅ | —
-XXXII | kas ✅ | zam ✅ | bit ✅ | spr ✅ | wal ✅ | usu ✅
+XXXI | bud ✅ | prz ✅ | cza ✅ | zap ✅ | sat ✅ | —
+XXXII | spr ✅ | usu ✅ | kas ✅ | bit ✅ | zam ✅ | wal ✅
 
 
-## Rozwiązane zadania z II etapu
+## Solved tasks from Stage II
 
-Edycja | zad. próbne | Dzień 1 - zad. 1 | Dzień 1 - zad. 2 | Dzień 2 - zad. 1 | Dzień 2 - zad. 2
+Edition | trial task | Day 1 - task 1 | Day 1 - task 2 | Day 2 - task 1 | Day 2 - task 2
 :--- | ---: | ---: | ---: | ---: | ---:
 I | sum ✅ |   | — |   | —
 II |   | tro ✅ |   |   |  
@@ -96,31 +96,31 @@ IX | izo ✅ | dzi ✅ |   |   |
 X |   |   |   |   |  
 XI |   |   |   |   |  
 XII |   | ban ✅ |   | sza ✅ | kos 🤔
-XIII |   | met ✅ | naj ✅ |   |  
+XIII |   | naj ✅ | met ✅ |   |  
 XIV |   |   |   | tet ✅ |  
-XV | blo 🤔 | bbb ✅ | poc ✅ | uci ✅ | maf ✅
-XVI |   | kon ✅ | baj ✅ | arc ✅ | lyz ✅
+XV | blo 🤔 | poc ✅ | bbb ✅ | uci ✅ | maf ✅
+XVI |   | kon ✅ | baj ✅ | lyz ✅ | arc ✅
 XVII |   | klo ✅ | cho ✅ | tel ✅ | owc 🤔
-XVIII |   | smi ✅ | roz ✅ | rot ✅ | rod ✅
-XIX |   | sza ✅ | bon ✅ | roz ✅ | okr ✅
-XX | spa 🤔 | luk 🤔 |   | kon ✅ | mor ✅
+XVIII |   | smi ✅ | roz ✅ | tem ✅ | rot ✅
+XIX |   | bon ✅ | sza ✅ | okr ✅ | roz ✅
+XX | spa 🤔 | luk 🤔 |   | mor ✅ | kon ✅
 XXI | kar ✅ | prz ✅ |   | pta ✅ | raj ✅
-XXII |   | pus ✅ | pod ✅ | kur ✅ | trz ✅
-XXIII | swi ✅ | zaj ✅ | dro ✅ | wca ✅ | ark ✅
-XXIV | zaw ✅ | str ✅ | sum ✅ | zam ✅ | kon ✅
-XXV | prz ✅ | dro ✅ | kon ✅ | tom ✅ | tel ✅
-XXVI | roz 🤔 | gwi ✅ | kol ✅ | osi ✅ | cyk ✅
+XXII |   | pus ✅ | pod ✅ | trz ✅ | kur ✅
+XXIII | swi ✅ | dro ✅ | zaj ✅ | wca ✅ | ark ✅
+XXIV | zaw ✅ | str ✅ | sum ✅ | kon ✅ | zam ✅
+XXV | prz ✅ | dro ✅ | kon ✅ | tel ✅ | tom ✅
+XXVI | roz 🤔 | gwi ✅ | kol ✅ | cyk ✅ | osi ✅
 XXVII | wak 🤔 | wie ✅ | czw ✅ | tru 🤔 | mar ✅
 XXVIII | pro ✅ | ple ✅ |   | pla ✅ |  
 XXIX | arm 🤔 | age ✅ | lic ✅ | kon 🤔 |  
-XXX | wir ✅ | wag ✅ | gra ✅ | wsp ✅ | drw ✅
-XXXI | tel ✅ | ryc 🤔 | lic ✅ | poj ✅ | cia ✅
-XXXII | sss ✅ | drz ✅ |   | por ✅ | sch 🤔
+XXX | wir ✅ | gra ✅ | wag ✅ | drw ✅ | wsp ✅
+XXXI | tel ✅ | ryc 🤔 | lic ✅ | cia ✅ | poj ✅
+XXXII | sss ✅ | drz ✅ |   | sch 🤔 | por ✅
 
 
-## Rozwiązane zadania z III etapu
+## Solved tasks from Stage III
 
-Edycja | Dzień próbny, zad. 1 | Dzień próbny, zad. 2 | Dzień 1 - zad. 1 | Dzień 1 - zad. 2 | Dzień 1 - zad. 3 | Dzień 2 - zad. 1 | Dzień 2 - zad. 2 | Dzień 2 - zad. 3
+Edition | Trial day, task 1 | Trial day, task 2 | Day 1 - task 1 | Day 1 - task 2 | Day 1 - task 3 | Day 2 - task 1 | Day 2 - task 2 | Day 2 - task 3
 :--- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---:
 I |   | — | ana ✅ |   | — |   | — | —
 II |   | — |   |   | — |   |   | —
@@ -132,7 +132,7 @@ VII |   | — |   |   | — | age ✅ |   |
 VIII |   | — |   |   | — | kop ✅ |   |  
 IX | min ✅ | — |   |   | — |   |   |  
 X |   | — |   |   | — |   |   |  
-XI |   | — |   |   |   | mak ✅ | mis ✅ | —
+XI |   | — |   |   |   | mis ✅ | mak ✅ | —
 XII |   | — |   |   |   | aut ✅ |   |  
 XIII |   | — |   |   | — | pal ✅ |   |  
 XIV |   | — | gaz ✅ |   | — |   |   |  
@@ -144,12 +144,12 @@ XIX |   | — | lic ✅ |   |   |   |   |
 XX |   | — | lan ✅ |   |   | las ✅ |   |  
 XXI | far ✅ | — | tur 🤔 |   |   | zal ✅ |   |  
 XXII |   | — | wil ✅ |   |   | kol ✅ |   |  
-XXIII | row ✅ | — | zyw ✅ | pos 🤔 | pra ✅ |   |   |  
-XXIV |   | — | oce ✅ | mid ✅ |   | kuc 🤔 |   | —
-XXV | dwa ✅ | trz ✅ | kom 🤔 |   |   | tak ✅ |   |  
+XXIII | row ✅ | — | pos 🤔 | zyw ✅ | pra ✅ |   |   |  
+XXIV |   | — | mid ✅ | oce ✅ |   | kuc 🤔 |   | —
+XXV | trz ✅ | dwa ✅ | kom 🤔 |   |   | tak ✅ |   |  
 XXVI | met ✅ | — | zja 🤔 | rem 🤔 |   | dlu ✅ |   |  
 XXVII | — | — | — | — | — | — | — | —
 XXVIII | kol 🤔 | — |   |   |   |   |   |  
-XXIX | zer ✅ |   | wyb ✅ | glo ✅ | rze 🤔 | met 🤔 |   |  
+XXIX | zer ✅ |   | glo ✅ | wyb ✅ | rze 🤔 | met 🤔 |   |  
 XXX |   | — |   |   |   |   |   |  
 XXXI | sta 🤔 | — | wys 🤔 | ska 🤔 | buk 🤔 | wyj 🤔 |   |

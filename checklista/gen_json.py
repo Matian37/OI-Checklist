@@ -99,5 +99,5 @@ for oi_dir, edycja in [("../rozwiazania/" + edycja, i+1) for i, edycja in enumer
 with open("tasks.json", "w", encoding="utf-8") as f:
     json.dump(tasks, f, indent=4, ensure_ascii=False)
 
-print("✅ tasks.json wygenerowany poprawnie")
+print("✅ tasks.json generated successfully")
 

@@ -97,7 +97,7 @@ for i, etap in enumerate([1,2,3]):
     y0 = i*(UNIT + GAP)
     pct = percent(wbite_etap[etap], MAX_ETAP[etap])
     svg_parts.append(f'<rect x="{x0}" y="{y0}" width="{2*UNIT}" height="{UNIT}" fill="{color_for_pct(pct)}" stroke="white" stroke-width="1">')
-    svg_parts.append(f'<title>{etap} Etap – {pct}%</title></rect>')
+    svg_parts.append(f'<title>Stage {etap} – {pct}%</title></rect>')
     # numer etapu.
     svg_parts.append(f'<text x="{x0 - (BLOCK_GAP + 4) / 2}" y="{y0 + UNIT/2}" text-anchor="middle" dominant-baseline="middle" font-size="10" fill="white" font-family="monospace">{etap_labels[etap]}</text>')
     # procent w środku boxa.
@@ -111,7 +111,7 @@ for e_idx, edycja in enumerate(range(1, num_editions+1)):
         y0 = (etap-1)*(UNIT + GAP)
         pct = percent(wbite_etap_edycja[etap][edycja], MAX_EDYCJA_ETAP[etap][edycja])
         svg_parts.append(f'<rect x="{x_pos}" y="{y0}" width="{UNIT}" height="{UNIT}" fill="{color_for_pct(pct)}" stroke="white" stroke-width="1">')
-        svg_parts.append(f'<title>{etap} Etap {edycja} OI – {pct}%</title></rect>')
+        svg_parts.append(f'<title>Stage {etap}, edition {edycja} OI – {pct}%</title></rect>')
     # rzymska cyfra pod kolumną
     svg_parts.append(f'<text x="{x_pos + UNIT/2}" y="{central_size + 12}" text-anchor="middle" dominant-baseline="middle" font-size="5" fill="white" font-family="monospace">{to_roman(edycja)}</text>')
 

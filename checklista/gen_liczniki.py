@@ -57,7 +57,7 @@ for entry in data.values():
 
 
 # --- generowanie treści markdown ---
-lines = ["# Podsumowanie", ""]
+lines = ["# Summary", ""]
 
 def to_roman(num: int) -> str:
     vals = [
@@ -75,8 +75,8 @@ def to_roman(num: int) -> str:
 
 
 # --- tabela etapów ---
-lines.append("## Rozwiązane zadania wg etapów\n")
-header = ["Etap I", "Etap II", "Etap III", "Łącznie"]
+lines.append("## Solved tasks by stage\n")
+header = ["Stage I", "Stage II", "Stage III", "Total"]
 lines.append(" | ".join(header))
 lines.append(" | ".join([":---:"] * len(header)))
 
@@ -92,7 +92,7 @@ lines.append(" | ".join(row))
 
 
 # --- tabela edycji w układzie kolumnowym ---
-lines.append("\n## Rozwiązane zadania wg edycji\n")
+lines.append("\n## Solved tasks by edition\n")
 
 group_size = 10
 num_groups = (len(MAX_EDYCJA) + group_size - 1) // group_size
@@ -101,7 +101,7 @@ num_groups = (len(MAX_EDYCJA) + group_size - 1) // group_size
 headers = []
 align = []
 for g in range(num_groups):
-    headers += ["Edycja", "Wynik"]
+    headers += ["Edition", "Score"]
     align += [":---", "---:"]
 lines.append(" | ".join(headers))
 lines.append(" | ".join(align))

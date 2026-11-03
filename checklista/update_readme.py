@@ -12,7 +12,7 @@ content = readme.read_text(encoding="utf-8")
 
 marker = "<!-- AUTO-CHECKLIST -->"
 if marker not in content:
-    print("❌ Nie znaleziono sekcji automatycznej w README.md", file=sys.stderr)
+    print("❌ Auto-generated section not found in README.md", file=sys.stderr)
     sys.exit(1)
 
 # --- usuń wszystko przed pierwszym nagłówkiem '#'
@@ -59,14 +59,14 @@ for etap in [1, 2, 3]:
         cwd=checklist_dir,
         text=True
     )
-    tables.append(f"## Rozwiązane zadania z {roman[etap]} etapu\n\n" + out.strip() + "\n")
+    tables.append(f"## Solved tasks from Stage {roman[etap]}\n\n" + out.strip() + "\n")
 
 # komunikat ostrzegawczy
 warning = (
-    "> ⚠️ **UWAGA:** Sekcja poniżej jest generowana automatycznie.\n"
-    "> Nie modyfikuj README poniżej tego napisu.\n"
-    "> ✅ oznacza wykonane zadanie.\n"
-    "> 🤔 oznacza zadanie z mniej niż 100 punktów.\n"
+    "> ⚠️ **NOTE:** The section below is generated automatically.\n"
+    "> Do not modify the README below this notice.\n"
+    "> ✅ means a completed task.\n"
+    "> 🤔 means a task with fewer than 100 points.\n"
 )
 
 # podmiana zawartości po markerze
@@ -79,5 +79,5 @@ new_content = base + marker + "\n\n" + warning + "\n\n".join(tables)
 
 # zapisz
 readme.write_text(new_content, encoding="utf-8")
-print("✅ README.md zostało zaktualizowane")
+print("✅ README.md has been updated")
 

@@ -76,7 +76,7 @@ ktory_dzien = {
 wszystkie_edycje = range(1, 32)
 
 # Przygotowujemy tabelę markdown
-header = ["Edycja", "Dzień próbny, zad. 1", "Dzień próbny, zad. 2", "Dzień 1 - zad. 1", "Dzień 1 - zad. 2", "Dzień 1 - zad. 3", "Dzień 2 - zad. 1", "Dzień 2 - zad. 2", "Dzień 2 - zad. 3"] 
+header = ["Edition", "Trial day, task 1", "Trial day, task 2", "Day 1 - task 1", "Day 1 - task 2", "Day 1 - task 3", "Day 2 - task 1", "Day 2 - task 2", "Day 2 - task 3"] 
 # Pierwszy wiersz to nagłówek
 lines = [" | ".join(header)]
 # Drugi wiersz to wyrównanie: pierwszy do lewej, reszta do prawej
@@ -99,7 +99,7 @@ for edycja in wszystkie_edycje:
                 i += 1
                 continue
             elif zad["dzien"] < dzien:
-                print(f"Coś chyba za dużo ci się tych zadań dodało do dnia {zad['dzien']} 2 etapu {int_to_roman(edycja)}...", file=sys.stderr)
+                print(f"You seem to have added too many tasks to day {zad['dzien']} of stage 3, edition {int_to_roman(edycja)}...", file=sys.stderr)
                 exit(1)
 
         if ktore > zadania_edycja(edycja)[dzien]:
